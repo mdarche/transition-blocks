@@ -3,9 +3,9 @@
  * Plugin Name: Transition Blocks
  * Plugin URI: https://transitionblocks.com
  * Description: A plugin containing example blocks for developers.
- * Text Domain: transitionblocks
+ * Text Domain: transition-blocks
  * Domain Path: /languages
- * Author: Mike Darche (@mdarshay)
+ * Author: Mike Darche
  * Author URI: https://twitter.com/mdarshay
  * Version: 1.0.0
  * License: GPL2+

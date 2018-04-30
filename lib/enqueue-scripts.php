@@ -23,6 +23,7 @@ function transitionblocks_editor_scripts() {
     filemtime( plugin_dir_path( __FILE__ ) . $editorStylePath )
   );
 }
+
 add_action( 'enqueue_block_editor_assets', 'transitionblocks_editor_scripts' );
 
 /**
